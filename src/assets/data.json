@@ -1,0 +1,17 @@
+[
+  {
+    "firstName": "Bruce",
+    "lastName": "Wayne",
+    "email": "bruce.wayne@wayneenterprises.com"
+  },
+  {
+    "firstName": "Lucius",
+    "lastName": "Fox",
+    "email": "lucius.fox@wayneenterprises.com"
+  },
+  {
+    "firstName": "Dick",
+    "lastName": "Grayson",
+    "email": "dick.grayson@gmail.com"
+  }
+]
